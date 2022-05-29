@@ -1,0 +1,13 @@
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.exe
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.deps.json
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.json
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.dev.json
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.dll
+C:\ЛР5\ystu_lab\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csprojAssemblyReference.cache
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfoInputs.cache
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfo.cs
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.CoreCompileInputs.cache
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.dll
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\ЛР5\ystu_lab\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.genruntimeconfig.cache
